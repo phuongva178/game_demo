@@ -1,0 +1,28 @@
+
+
+BẮN ONG
+
+
+Bạn hãy sử dụng assets có sẵn và viết 1 game bằng ngôn ngữ quen thuộc nhất đối với bạn, đề làm 1 game, như trong video "game_demo".
+
+I. Yêu cầu cơ bản.
+
+- Sử dụng các phím nút arrow trên máy tính để điểu khiển con tàu và dùng spacing để bắn đạn
+
+- Mục tiêu là bắt hết ong trên màng hình.
+- Đàn ong sẽ bắn các đạn hình tròn nhỏ, nếu trúng con Tàu sẽ bị nổ.
+
+II. Yêu cầu nâng cao.
+- Nếu đủ thời gian, bạn có thể mở rộng thêm game như gửi ý dưới đây.
+
+1. Giới hạn thời gian trong game, nghĩa là game trong vòng 60s bắt hết đàn ong,
+
+2. Thêm level cho game, ở cấp độ cao hơn thì mức độ khó sẽ cao hơn, chẳng hạn như sau:
+ - Thời gian giảm đi.
+ - Tốc độ di chuyển của tàu nhanh hơn.
+ - Đàn ong bắn đạn nhiều và nhanh hơn.
+
+III. Nộp bài.
+- Bạn hãy đóng gói game lại và gửi về cho bên tuyển dụng. Mục tiêu là chạy được game dứoi local bạn nhé!
+
+CHÚC BẠN MÀY MẮN!!!!
